@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Upulika Indrajani 👋
 
 ## About Me
