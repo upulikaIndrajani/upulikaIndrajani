@@ -1,16 +1,12 @@
 # Hi, I'm Upulika Indrajani 👋
 
-![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-CI/CD-0078D7?style=for-the-badge\&logo=azure-devops\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Agile-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-CI/CD-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-![Jira](https://img.shields.io/badge/Jira-Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## About Me
 
